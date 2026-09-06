@@ -49,6 +49,18 @@ nav:
   - Home: index.md
   - About: about.md
   - Categories: categories.md
+  - Wargaming:
+      - Overview: wargaming/index.md
+      - Introduction to Wargaming: wargaming/introduction-to-wargaming.md
+      - History of Wargaming: wargaming/history-of-wargaming.md
+      - Modelling, Simulation and Wargaming Overview: wargaming/modelling-simulation-and-wargaming-overview.md
+      - Generations of Wargames: wargaming/generations-of-wargames.md
+      - Types and Examples: wargaming/types-and-examples.md
+      - The Wargaming Process: wargaming/the-wargaming-process.md
+      - Applications Across the Spectrum of Conflict: wargaming/applications-across-the-spectrum-of-conflict.md
+      - SANDF Context: wargaming/sandf-context.md
+      - Future Trends: wargaming/future-trends.md
+      - Scenario Writing: wargaming/scenario-writing.md
   - Articles: articles/placeholder.md
   - Reference: reference/placeholder.md
 
