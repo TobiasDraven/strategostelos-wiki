@@ -1,0 +1,55 @@
+site_name: Strategos Telos
+site_description: Knowledge base and wiki
+site_author: Tobias Malan
+site_url: https://TobiasDraven.github.io/strategostelos-wiki
+
+repo_name: TobiasDraven/strategostelos-wiki
+repo_url: https://github.com/TobiasDraven/strategostelos-wiki
+
+theme:
+  name: material
+  palette:
+    - scheme: slate
+      primary: black
+      accent: orange
+      toggle:
+        icon: material/weather-night
+        name: Dark mode
+    - scheme: default
+      primary: black
+      accent: orange
+      toggle:
+        icon: material/weather-sunny
+        name: Light mode
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - content.action.edit
+
+markdown_extensions:
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.details
+  - pymdownx.tabbed
+  - pymdownx.emoji
+  - pymdownx.tasklist
+  - admonition
+  - toc:
+      permalink: true
+
+plugins:
+  - search:
+      lang: en
+
+nav:
+  - Home: index.md
+  - About: about.md
+  - Categories: categories.md
+  - Articles: articles/placeholder.md
+  - Reference: reference/placeholder.md
+
+edit_uri: edit/main/docs/
