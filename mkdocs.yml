@@ -89,6 +89,9 @@ nav:
       - Cyber:
           - Overview: domains/cyber.md
           - Mobile-First Internet — The African Case: domains/cyber/mobile-first-africa.md
+          - Individual Cyber Hygiene: domains/cyber/individual-cyber-hygiene.md
+          - Tactical Cyber Operations: domains/cyber/tactical-cyber-operations.md
+          - Battalion Staff Cyber Planning: domains/cyber/battalion-staff-cyber-planning.md
       - Noetic:
           - Overview: domains/noetic.md
           - Section Commander's Sensemaking: domains/noetic/section-commanders-sensemaking.md
