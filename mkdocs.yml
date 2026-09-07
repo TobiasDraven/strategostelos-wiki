@@ -86,7 +86,9 @@ nav:
       - Maritime: domains/maritime.md
       - Aerospace: domains/aerospace.md
       - Outer Space: domains/outer-space.md
-      - Cyber: domains/cyber.md
+      - Cyber:
+          - Overview: domains/cyber.md
+          - Mobile-First Internet — The African Case: domains/cyber/mobile-first-africa.md
       - Noetic: domains/noetic.md
   - Force Structure:
       - Overview: force-structure/index.md

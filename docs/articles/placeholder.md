@@ -12,4 +12,4 @@ _No drafts in progress._
 
 ---
 
-Articles are linked from [Categories](categories.md) and cross-referenced throughout the wiki.
+Articles are linked from [Categories](../categories.md) and cross-referenced throughout the wiki.

@@ -103,11 +103,11 @@ For these reasons, modern joint operations treat cyber not as a support function
 4. NATO, *Warsaw Summit Communiqué*, 8–9 July 2016, para. 70.
 5. NATO, *Strategic Concept*, 2010 and 2022 updates.
 6. RAND Corporation, *Creating Selective Overmatch*, 2021.
-7. Devanny, A., *Strategy in an Uncertain Age: Cyber Power and the Challenge of Attribution*, King’s College London, 2022.
+7. Devanny, A., *Strategy in an Uncertain Age: Cyber Power and the Challenge of Attribution*, King's College London, 2022.
 8. Yale Law School, *Rules for Attributing the Source of a Cyber-Attack*, 2017.
 9. NATO Parliamentary Assembly, *Offense-Defence Balance in Cyber Challenge*, 2023.
 10. NATO CCD COE, *Cyber Defence Handbook*, 2018.
-11. NDU Press, *PRISM 7-2*, “Differentiating Kinetic and Cyber Weapons to Improve Integrated Combat.”
+11. NDU Press, *PRISM 7-2*, "Differentiating Kinetic and Cyber Weapons to Improve Integrated Combat."
 12. NDU Press, *Integrated Deterrence and Cyberspace*.
 13. Congressional Research Service, *Defense Primer: Cyberspace Operations*, 2022.
 14. EU EEAS, *Military Vision and Strategy for Cyberspace*, 2021.
