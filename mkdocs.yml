@@ -60,8 +60,19 @@ nav:
       - Applications Across the Spectrum of Conflict: wargaming/applications-across-the-spectrum-of-conflict.md
       - SANDF Context: wargaming/sandf-context.md
       - Future Trends: wargaming/future-trends.md
-      - Scenario Writing: wargaming/scenario-writing.md
-      - Exercise Design: wargaming/exercise-design.md
+      - Scenario Writing:
+          - Overview: wargaming/scenario-writing/index.md
+          - Background and Context: wargaming/scenario-writing/background.md
+          - Narrative Design: wargaming/scenario-writing/narrative.md
+          - Design Process: wargaming/scenario-writing/design-process.md
+          - Inject Design: wargaming/scenario-writing/injects.md
+          - Checklist: wargaming/scenario-writing/checklist.md
+      - Exercise Design:
+          - Overview: wargaming/exercise-design/index.md
+          - Exercise Types: wargaming/exercise-design/exercise-types.md
+          - Commissioning and Initiation: wargaming/exercise-design/commissioning.md
+          - Planning and Development: wargaming/exercise-design/planning.md
+          - Control and Documentation: wargaming/exercise-design/control-and-docs.md
       - Tactical Decision Games:
           - Overview: wargaming/tdg/index.md
           - TDG-01 — Dry Riverbed Ambush: wargaming/tdg/tdg-01-dry-riverbed-ambush.md
