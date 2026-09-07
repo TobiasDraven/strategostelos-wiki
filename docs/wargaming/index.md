@@ -30,17 +30,9 @@ Working notes, doctrine, and analysis on wargaming and military simulation.
 
 [Applications Across the Spectrum of Conflict](applications-across-the-spectrum-of-conflict.md)
 
-## SANDF Context
-
-[SANDF Context](sandf-context.md)
-
 ## Future Trends
 
 [Future Trends](future-trends.md)
-
-## Scenario Writing
-
-[Scenario Writing](scenario-writing.md)
 
 ## Tactical Decision Games
 
@@ -48,4 +40,4 @@ Working notes, doctrine, and analysis on wargaming and military simulation.
 
 ---
 
-All pages in this section are sourced from *Wargaming and Military Simulation for the SANDF* (TRG COMD/R/103/6, May 2025, Capt P.A.R. Malan).
+This section is part of the Strategos Telos wargaming library. It is intended to be generalizable to military wargaming and exercise design practice worldwide.
