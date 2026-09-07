@@ -94,6 +94,7 @@ nav:
           - Battalion Staff Cyber Planning: domains/cyber/battalion-staff-cyber-planning.md
       - Electro-Magnetic:
           - Overview: domains/electromagnetic/index.md
+          - Electronic Warfare — General Overview: domains/electronic-warfare.md
           - Individual EMS Awareness: domains/electromagnetic/individual-ems-awareness.md
           - Tactical EMS Operations: domains/electromagnetic/tactical-ems-operations.md
           - Battalion Staff EMS Planning: domains/electromagnetic/battalion-staff-ems-planning.md
