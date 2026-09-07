@@ -89,7 +89,11 @@ nav:
       - Cyber:
           - Overview: domains/cyber.md
           - Mobile-First Internet — The African Case: domains/cyber/mobile-first-africa.md
-      - Noetic: domains/noetic.md
+      - Noetic:
+          - Overview: domains/noetic.md
+          - Section Commander's Sensemaking: domains/noetic/section-commanders-sensemaking.md
+          - Platoon Commander's Cognitive Domain: domains/noetic/platoon-commanders-cognitive-domain.md
+          - Battalion Staff Sensemaking: domains/noetic/battalion-staff-sensemaking.md
   - Force Structure:
       - Overview: force-structure/index.md
       - Land Forces:
