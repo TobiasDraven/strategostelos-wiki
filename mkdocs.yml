@@ -48,7 +48,9 @@ nav:
   - Home: index.md
   - About: about.md
   - Categories: categories.md
-  - Theory: theory/index.md
+  - Theory:
+      - Overview: theory/index.md
+      - Security-Development Nexus in Africa: theory/security-development-nexus-africa.md
   - Wargaming:
       - Overview: wargaming/index.md
       - Introduction to Wargaming: wargaming/introduction-to-wargaming.md
@@ -89,6 +91,7 @@ nav:
           - Ship Captain's Maritime Operations: domains/maritime/ship-captains-maritime.md
           - Task Group Commander's Maritime Operations: domains/maritime/task-group-commanders-maritime.md
           - Fleet Commander's Maritime Operations: domains/maritime/fleet-commanders-maritime.md
+          - Gulf of Guinea — Maritime Security: domains/maritime/gulf-of-guinea-maritime-security.md
           - Case Study — The Falklands: domains/maritime/case-study-falklands.md
       - Aerospace: domains/aerospace.md
       - Outer Space: domains/outer-space.md
@@ -98,6 +101,7 @@ nav:
           - Individual Cyber Hygiene: domains/cyber/individual-cyber-hygiene.md
           - Tactical Cyber Operations: domains/cyber/tactical-cyber-operations.md
           - Battalion Staff Cyber Planning: domains/cyber/battalion-staff-cyber-planning.md
+          - Digital Financial Services — Cyber Resilience Africa: domains/cyber/digital-financial-services-cyber-africa.md
       - Electro-Magnetic:
           - Overview: domains/electromagnetic/index.md
           - Electronic Warfare — General Overview: domains/electronic-warfare.md
@@ -120,6 +124,7 @@ nav:
           - Section Commander's Landward Operations: domains/landward/section-commanders-landward.md
           - Platoon Commander's Landward Operations: domains/landward/platoon-commanders-landward.md
           - Battalion Staff Landward Operations: domains/landward/battalion-staff-landward.md
+          - Peace Support Operations in Africa: domains/landward/peace-support-operations-africa.md
           - Case Study — Battle of Leuctra: domains/landward/case-study-leuctra.md
   - Force Structure:
       - Overview: force-structure/index.md
