@@ -35,7 +35,7 @@ Every TDG in this library follows the same minimal envelope so it can be run in 
 Use this throughout the library so every page is readable across units.
 
 | Code | Meaning |
-|------|---------|
+|---|---|
 | Inf Sec | Infantry section (~12–15) |
 | Inf Plt | Infantry platoon (~30–40) |
 | Mech Plt | Mechanised platoon (Ratel-20/-25) |
@@ -59,6 +59,14 @@ Use this throughout the library so every page is readable across units.
 | **ROE / legal** | Compliant | Borderline | Breach noted |
 
 Score ≥ 8/12 = **ACCEPT**. 5–7 = **REDO with facilitator**. ≤4 = **FAIL — retrain before independent command**.
+
+## TDG Library
+
+- [TDG-01 — Dry Riverbed Ambush](tdg-01-dry-riverbed-ambush.md)
+- [TDG-02 — Checkpoint Alpha](tdg-02-checkpoint-alpha.md)
+- [TDG-03 — Bridging Team Under Fire](tdg-03-bridging-team-under-fire.md)
+- [TDG-04 — Medevac in the Contact Zone](tdg-04-medevac-in-the-contact-zone.md)
+- [TDG-05 — Silent Net](tdg-05-silent-net.md)
 
 ## How to Use This Library
 
