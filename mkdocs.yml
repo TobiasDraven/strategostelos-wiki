@@ -93,6 +93,7 @@ nav:
           - Fleet Commander's Maritime Operations: domains/maritime/fleet-commanders-maritime.md
           - Gulf of Guinea — Maritime Security: domains/maritime/gulf-of-guinea-maritime-security.md
           - Case Study — The Falklands: domains/maritime/case-study-falklands.md
+          - Case Study — Battle of Midway: domains/maritime/case-study-midway.md
       - Aerospace: domains/aerospace.md
       - Outer Space: domains/outer-space.md
       - Cyber:
@@ -102,6 +103,7 @@ nav:
           - Tactical Cyber Operations: domains/cyber/tactical-cyber-operations.md
           - Battalion Staff Cyber Planning: domains/cyber/battalion-staff-cyber-planning.md
           - Digital Financial Services — Cyber Resilience Africa: domains/cyber/digital-financial-services-cyber-africa.md
+          - Case Study — Stuxnet: domains/cyber/case-study-stuxnet.md
       - Electro-Magnetic:
           - Overview: domains/electromagnetic/index.md
           - Electronic Warfare — General Overview: domains/electronic-warfare.md
@@ -126,6 +128,7 @@ nav:
           - Battalion Staff Landward Operations: domains/landward/battalion-staff-landward.md
           - Peace Support Operations in Africa: domains/landward/peace-support-operations-africa.md
           - Case Study — Battle of Leuctra: domains/landward/case-study-leuctra.md
+          - Case Study — Battle of Ia Drang: domains/landward/case-study-ia-drang.md
   - Force Structure:
       - Overview: force-structure/index.md
       - Land Forces:
