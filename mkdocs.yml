@@ -92,6 +92,11 @@ nav:
           - Individual Cyber Hygiene: domains/cyber/individual-cyber-hygiene.md
           - Tactical Cyber Operations: domains/cyber/tactical-cyber-operations.md
           - Battalion Staff Cyber Planning: domains/cyber/battalion-staff-cyber-planning.md
+      - Electro-Magnetic:
+          - Overview: domains/electromagnetic/index.md
+          - Individual EMS Awareness: domains/electromagnetic/individual-ems-awareness.md
+          - Tactical EMS Operations: domains/electromagnetic/tactical-ems-operations.md
+          - Battalion Staff EMS Planning: domains/electromagnetic/battalion-staff-ems-planning.md
       - Noetic:
           - Overview: domains/noetic.md
           - Section Commander's Sensemaking: domains/noetic/section-commanders-sensemaking.md
