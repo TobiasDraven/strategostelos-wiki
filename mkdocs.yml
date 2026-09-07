@@ -49,6 +49,7 @@ nav:
   - Home: index.md
   - About: about.md
   - Categories: categories.md
+  - Theory: theory/index.md
   - Wargaming:
       - Overview: wargaming/index.md
       - Introduction to Wargaming: wargaming/introduction-to-wargaming.md
@@ -58,21 +59,7 @@ nav:
       - Types and Examples: wargaming/types-and-examples.md
       - The Wargaming Process: wargaming/the-wargaming-process.md
       - Applications Across the Spectrum of Conflict: wargaming/applications-across-the-spectrum-of-conflict.md
-      - SANDF Context: wargaming/sandf-context.md
       - Future Trends: wargaming/future-trends.md
-      - Scenario Writing:
-          - Overview: wargaming/scenario-writing/index.md
-          - Background and Context: wargaming/scenario-writing/background.md
-          - Narrative Design: wargaming/scenario-writing/narrative.md
-          - Design Process: wargaming/scenario-writing/design-process.md
-          - Inject Design: wargaming/scenario-writing/injects.md
-          - Checklist: wargaming/scenario-writing/checklist.md
-      - Exercise Design:
-          - Overview: wargaming/exercise-design/index.md
-          - Exercise Types: wargaming/exercise-design/exercise-types.md
-          - Commissioning and Initiation: wargaming/exercise-design/commissioning.md
-          - Planning and Development: wargaming/exercise-design/planning.md
-          - Control and Documentation: wargaming/exercise-design/control-and-docs.md
       - Tactical Decision Games:
           - Overview: wargaming/tdg/index.md
           - TDG-01 — Dry Riverbed Ambush: wargaming/tdg/tdg-01-dry-riverbed-ambush.md
@@ -80,6 +67,32 @@ nav:
           - TDG-03 — Bridging Team Under Fire: wargaming/tdg/tdg-03-bridging-team-under-fire.md
           - TDG-04 — Medevac in the Contact Zone: wargaming/tdg/tdg-04-medevac-in-the-contact-zone.md
           - TDG-05 — Silent Net: wargaming/tdg/tdg-05-silent-net.md
+  - Simulation:
+      - Overview: simulation/index.md
+  - Training:
+      - Scenario Writing:
+          - Overview: training/scenario-writing/index.md
+          - Background and Context: training/scenario-writing/background.md
+          - Narrative Design: training/scenario-writing/narrative.md
+          - Design Process: training/scenario-writing/design-process.md
+          - Inject Design: training/scenario-writing/injects.md
+          - Checklist: training/scenario-writing/checklist.md
+      - Exercise Design:
+          - Overview: training/exercise-design/index.md
+          - Exercise Types: training/exercise-design/exercise-types.md
+          - Commissioning and Initiation: training/exercise-design/commissioning.md
+          - Planning and Development: training/exercise-design/planning.md
+          - Control and Documentation: training/exercise-design/control-and-docs.md
+  - Domains:
+      - Overview: domains/index.md
+      - Landward: domains/landward.md
+      - Maritime: domains/maritime.md
+      - Aerospace: domains/aerospace.md
+      - Outer Space: domains/outer-space.md
+      - Cyber: domains/cyber.md
+      - Noetic: domains/noetic.md
+  - Force Structure:
+      - Overview: force-structure/index.md
   - Articles: articles/placeholder.md
   - Reference: reference/placeholder.md
 

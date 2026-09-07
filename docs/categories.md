@@ -1,12 +1,13 @@
 # Categories
 
-## By Domain
+## Knowledge Areas
 
-- [Military Theory](articles/placeholder.md)
-- [Wargaming](articles/placeholder.md)
-- [Scenario Design](articles/placeholder.md)
-- [Analysis Frameworks](articles/placeholder.md)
-- [Glossary](reference/placeholder.md)
+- [Theory](theory/index.md) — foundational concepts, frameworks, and principles
+- [Wargaming](wargaming/index.md) — wargaming methods, history, types, and tactical decision games
+- [Simulation](simulation/index.md) — military simulation methods, tools, and integration
+- [Training](training/index.md) — scenario writing, exercise design, and instructional methods
+- [Domains](domains/index.md) — landward, maritime, aerospace, outer space, cyber, noetic
+- [Force Structure](force-structure/index.md) — organizational patterns and force design
 
 ## By Status
 
