@@ -6,10 +6,10 @@ Welcome to the Strategos Telos knowledge base.
 
 ## Start Here
 
-- [[About]] — purpose, scope, and governance
-- [[Categories]] — how the knowledge base is organized
-- [[Articles]] — working notes, doctrine, and analysis
-- [[Reference]] — definitions, frameworks, and canonical sources
+- [About](about.md) — purpose, scope, and governance
+- [Categories](categories.md) — how the knowledge base is organized
+- [Articles](articles/placeholder.md) — working notes, doctrine, and analysis
+- [Reference](reference/placeholder.md) — definitions, frameworks, and canonical sources
 
 ## Navigation
 
