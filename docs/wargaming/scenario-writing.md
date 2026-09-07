@@ -4,7 +4,7 @@
 
 ## What Is a Scenario?
 
-A scenario provides the context for decision-making and sets the stage for the game. It should include a compelling background, clear player objectives, defined relationships, available resources, and mechanisms for information updates.
+A scenario provides the context for decision-making and sets the stage for the wargame. It should include a compelling background, clear player objectives, defined relationships, available resources, and mechanisms for information updates.
 
 ## Key Elements of a Scenario
 
@@ -14,6 +14,7 @@ A well-crafted background increases scenario credibility and deters challenges. 
 - Establish the key actors in the wargame
 - Identify their general attitudes, intentions, and goals
 - Provide the political, economic, and social context
+- Explain the historical and strategic background that led to the situation
 
 ### 2. Player Objectives
 
@@ -73,6 +74,25 @@ A compelling scenario requires a narrative that resonates with players and align
 - Include human elements — not just military forces, but civilian populations, NGOs, media
 - Account for cultural context and the "reasonable actors" problem
 
+## Narrative Construction
+
+### Core Components
+
+1. **Orientation** — Introduce the operational environment, including geography, climate, infrastructure, and human terrain.
+2. **Historical Background** — Describe the strategic and operational background that explains how the situation developed. Identify the main actors, their motivations, and the conflict triggers.
+3. **Escalation / Road to Crisis or War** — Chronologically unpack recent events that led to the current situation. Show a clear increase in tension and the key incidents that pushed the situation toward conflict.
+4. **Mission** — State the military problem and the mission that brings the primary training audience into the situation. This may be a structured mission from higher headquarters or an unstructured problem that requires analysis and appreciation.
+
+### Design Steps
+
+1. **Geographical placement** — Choose real or fictional terrain. Prepare maps at appropriate scales.
+2. **Identify conflict triggers** — Select one or more political, social, economic, or military triggers that start the conflict.
+3. **Identify main actors** — Define each actor's aims, capabilities, power base, and threat potential.
+4. **Conflict mapping** — Plot incidents on a timeline or map to control tempo and escalation.
+5. **Mission statement** — Define the military mission that transitions from operational to tactical level.
+6. **Supporting documents** — Prepare orders, intelligence summaries, ROE, and logistics data.
+7. **Draft the narrative** — Write the full narrative, keeping it concise, accurate, and clear.
+
 ## Inject Design
 
 Injects are unexpected developments that keep the scenario dynamic and realistic. Effective injects:
@@ -103,4 +123,4 @@ Tasking → Design → Development → Testing → Rehearsal → Execution → P
 
 ---
 
-*Source: Wargaming and Military Simulation for the SANDF, TRG COMD/R/103/6, May 2025, Capt P.A.R. Malan.*
+*This page is part of the Strategos Telos wargaming library. It is intended to be generalizable to military wargaming and exercise design practice worldwide.*
