@@ -83,6 +83,9 @@ nav:
           - Commissioning and Initiation: training/exercise-design/commissioning.md
           - Planning and Development: training/exercise-design/planning.md
           - Control and Documentation: training/exercise-design/control-and-docs.md
+      - Landward:
+          - Overview: training/landward/index.md
+          - Infantry: training/landward/infantry.md
   - Domains:
       - Overview: domains/index.md
       - Landward: domains/landward.md
@@ -93,6 +96,9 @@ nav:
       - Noetic: domains/noetic.md
   - Force Structure:
       - Overview: force-structure/index.md
+      - Land Forces:
+          - Overview: force-structure/land-forces/index.md
+          - Infantry: force-structure/land-forces/infantry.md
   - Articles: articles/placeholder.md
   - Reference: reference/placeholder.md
 
