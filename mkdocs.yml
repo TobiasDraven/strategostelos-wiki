@@ -82,7 +82,8 @@ nav:
           - Infantry: training/landward/infantry.md
   - Domains:
       - Overview: domains/index.md
-      - Landward: domains/landward.md
+      - Landward:
+          - Overview: domains/landward/index.md
       - Maritime: domains/maritime.md
       - Aerospace: domains/aerospace.md
       - Outer Space: domains/outer-space.md
@@ -109,6 +110,12 @@ nav:
           - Platoon Commander's Space-Time: domains/space-time/platoon-commanders-space-time.md
           - Battalion Staff Space-Time: domains/space-time/battalion-staff-space-time.md
           - Case Study — The Left Hook: domains/space-time/case-study-left-hook.md
+      - Landward:
+          - Overview: domains/landward/index.md
+          - Section Commander's Landward Operations: domains/landward/section-commanders-landward.md
+          - Platoon Commander's Landward Operations: domains/landward/platoon-commanders-landward.md
+          - Battalion Staff Landward Operations: domains/landward/battalion-staff-landward.md
+          - Case Study — Battle of Leuctra: domains/landward/case-study-leuctra.md
   - Force Structure:
       - Overview: force-structure/index.md
       - Land Forces:
