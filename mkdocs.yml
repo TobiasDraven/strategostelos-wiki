@@ -84,7 +84,11 @@ nav:
       - Overview: domains/index.md
       - Landward:
           - Overview: domains/landward/index.md
-      - Maritime: domains/maritime.md
+      - Maritime:
+          - Overview: domains/maritime/index.md
+          - Ship Captain's Maritime Operations: domains/maritime/ship-captains-maritime.md
+          - Task Group Commander's Maritime Operations: domains/maritime/task-group-commanders-maritime.md
+          - Case Study — Falklands War: domains/maritime/case-study-falklands.md
       - Aerospace: domains/aerospace.md
       - Outer Space: domains/outer-space.md
       - Cyber:
