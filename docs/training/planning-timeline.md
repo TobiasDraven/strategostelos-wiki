@@ -35,14 +35,30 @@ The exercise planning process spans from **–12 months** to **+2 months** relat
 
 ## Timeline Diagram
 
-```
--12 months: Identification of Requirement → Commissioning Instruction
--10 months: Concept Development Conference → Concept Development
--8 months: Initial Planning Conference
--6 months: Main Planning Conference
--4 months: Final Planning Conference
--1 month: Exercise Execution
-+1-2 months: After Action Review Process
+```mermaid
+gantt
+    title Exercise Planning Timeline (Months relative to Exercise E)
+    dateFormat  X
+    axisFormat %s
+    
+    section Stage 1: Commissioning
+    Identification of Requirement       :-12, 1
+    Commissioning Instruction           :-12, 1
+    
+    section Stage 2: Design & Development
+    Concept Development Conference      :-10, 2
+    Concept Development                 :-10, 2
+    
+    section Stage 3: Planning
+    Initial Planning Conference         :-8, 1
+    Main Planning Conference            :-6, 1
+    Final Planning Conference           :-4, 1
+    
+    section Stage 4: Execution/Delivery
+    Exercise                            :-1, 1
+    
+    section Stage 5: Post-Exercise
+    After Action Review Process         :1, 1
 ```
 
 ---
