@@ -100,6 +100,7 @@ nav:
           - Gulf of Guinea — Maritime Security: domains/maritime/gulf-of-guinea-maritime-security.md
           - Case Study — The Falklands: domains/maritime/case-study-falklands.md
           - Case Study — Battle of Midway: domains/maritime/case-study-midway.md
+          - Indo-Pakistani Naval War of 1971: domains/maritime/indo-pakistani-naval-war-1971.md
       - Aerospace: domains/aerospace.md
       - Outer Space: domains/outer-space.md
       - Cyber:
@@ -110,23 +111,27 @@ nav:
           - Battalion Staff Cyber Planning: domains/cyber/battalion-staff-cyber-planning.md
           - Digital Financial Services — Cyber Resilience Africa: domains/cyber/digital-financial-services-cyber-africa.md
           - Case Study — Stuxnet: domains/cyber/case-study-stuxnet.md
+          - Cyber Resilience in ASEAN — Singapore Model: domains/cyber/cyber-resilience-asean-singapore.md
       - Electro-Magnetic:
           - Overview: domains/electromagnetic/index.md
           - Electronic Warfare — General Overview: domains/electronic-warfare.md
           - Individual EMS Awareness: domains/electromagnetic/individual-ems-awareness.md
           - Tactical EMS Operations: domains/electromagnetic/tactical-ems-operations.md
           - Battalion Staff EMS Planning: domains/electromagnetic/battalion-staff-ems-planning.md
+          - Russian EW in Ukraine (2022–): domains/electromagnetic/russian-ew-ukraine.md
       - Noetic:
           - Overview: domains/noetic.md
           - Section Commander's Sensemaking: domains/noetic/section-commanders-sensemaking.md
           - Platoon Commander's Cognitive Domain: domains/noetic/platoon-commanders-cognitive-domain.md
           - Battalion Staff Sensemaking: domains/noetic/battalion-staff-sensemaking.md
+          - Indian Military Decision-Making (1971): domains/noetic/indian-military-decision-making-1971.md
       - Space-Time:
           - Overview: domains/space-time/index.md
           - Section Commander's Space-Time: domains/space-time/section-commanders-space-time.md
           - Platoon Commander's Space-Time: domains/space-time/platoon-commanders-space-time.md
           - Battalion Staff Space-Time: domains/space-time/battalion-staff-space-time.md
           - Case Study — The Left Hook: domains/space-time/case-study-left-hook.md
+          - Chinese A2/AD — Space-Time Dimension: domains/space-time/chinese-a2ad-space-time.md
       - Landward:
           - Overview: domains/landward/index.md
           - Section Commander's Landward Operations: domains/landward/section-commanders-landward.md
@@ -135,6 +140,7 @@ nav:
           - Peace Support Operations in Africa: domains/landward/peace-support-operations-africa.md
           - Case Study — Battle of Leuctra: domains/landward/case-study-leuctra.md
           - Case Study — Battle of Ia Drang: domains/landward/case-study-ia-drang.md
+          - Bangladesh Liberation War (1971): domains/landward/bangladesh-liberation-war-1971.md
   - Force Structure:
       - Overview: force-structure/index.md
       - Land Forces:
