@@ -72,6 +72,10 @@ nav:
       - Overview: simulation/index.md
   - Training:
       - Overview: training/index.md
+      - Typology of Military Exercises: training/typology.md
+      - The Exercise Planning Process: training/planning.md
+      - Exercise Commissioning: training/commissioning.md
+      - Exercise Control Structures — EXCON: training/excon.md
       - Scenario Writing:
           - Overview: training/scenario-writing/index.md
           - Background and Context: training/scenario-writing/background.md
