@@ -63,9 +63,15 @@ nav:
       - Future Trends: wargaming/future-trends.md
       - Tactical Decision Games:
           - Overview: wargaming/tdg/index.md
+          - TDG-01 — Dry Riverbed Ambush: wargaming/tdg/tdg-01-dry-riverbed-ambush.md
+          - TDG-02 — Checkpoint Alpha: wargaming/tdg/tdg-02-checkpoint-alpha.md
+          - TDG-03 — Bridging Team Under Fire: wargaming/tdg/tdg-03-bridging-team-under-fire.md
+          - TDG-04 — Medevac in the Contact Zone: wargaming/tdg/tdg-04-medevac-in-the-contact-zone.md
+          - TDG-05 — Silent Net: wargaming/tdg/tdg-05-silent-net.md
   - Simulation:
       - Overview: simulation/index.md
   - Training:
+      - Overview: training/index.md
       - Scenario Writing:
           - Overview: training/scenario-writing/index.md
           - Background and Context: training/scenario-writing/background.md
@@ -136,5 +142,6 @@ nav:
           - Infantry: force-structure/land-forces/infantry.md
   - Articles: articles/placeholder.md
   - Reference: reference/placeholder.md
+  - Governance: governance/SITE-GOVERNANCE.md
 
 edit_uri: edit/main/docs/
