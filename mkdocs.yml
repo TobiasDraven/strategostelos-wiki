@@ -90,8 +90,6 @@ nav:
           - Infantry: training/landward/infantry.md
   - Domains:
       - Overview: domains/index.md
-      - Landward:
-          - Overview: domains/landward/index.md
       - Maritime:
           - Overview: domains/maritime/index.md
           - Ship Captain's Maritime Operations: domains/maritime/ship-captains-maritime.md
