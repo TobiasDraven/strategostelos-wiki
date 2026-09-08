@@ -99,6 +99,7 @@ nav:
           - Case Study — The Falklands: domains/maritime/case-study-falklands.md
           - Case Study — Battle of Midway: domains/maritime/case-study-midway.md
           - Indo-Pakistani Naval War of 1971: domains/maritime/indo-pakistani-naval-war-1971.md
+          - "South China Sea — SE Asian Perspective": domains/maritime/case-study-south-china-sea-se-asian-perspective.md
       - Aerospace: domains/aerospace.md
       - Outer Space: domains/outer-space.md
       - Cyber:
@@ -110,6 +111,7 @@ nav:
           - Digital Financial Services — Cyber Resilience Africa: domains/cyber/digital-financial-services-cyber-africa.md
           - Case Study — Stuxnet: domains/cyber/case-study-stuxnet.md
           - Cyber Resilience in ASEAN — Singapore Model: domains/cyber/cyber-resilience-asean-singapore.md
+          - Cybercrime in Latin America — Brazil: domains/cyber/case-study-brazil-cybercrime.md
       - Electro-Magnetic:
           - Overview: domains/electromagnetic/index.md
           - Electronic Warfare — General Overview: domains/electronic-warfare.md
@@ -117,12 +119,14 @@ nav:
           - Tactical EMS Operations: domains/electromagnetic/tactical-ems-operations.md
           - Battalion Staff EMS Planning: domains/electromagnetic/battalion-staff-ems-planning.md
           - Russian EW in Ukraine (2022–): domains/electromagnetic/russian-ew-ukraine.md
+          - "EW in the Rhodesian Bush War": domains/electromagnetic/case-study-rhodesian-bush-war.md
       - Noetic:
           - Overview: domains/noetic.md
           - Section Commander's Sensemaking: domains/noetic/section-commanders-sensemaking.md
           - Platoon Commander's Cognitive Domain: domains/noetic/platoon-commanders-cognitive-domain.md
           - Battalion Staff Sensemaking: domains/noetic/battalion-staff-sensemaking.md
           - Indian Military Decision-Making (1971): domains/noetic/indian-military-decision-making-1971.md
+          - "Sensemaking in the Rwandan Defence Force": domains/noetic/case-study-rdf-sensemaking.md
       - Space-Time:
           - Overview: domains/space-time/index.md
           - Section Commander's Space-Time: domains/space-time/section-commanders-space-time.md
@@ -130,6 +134,7 @@ nav:
           - Battalion Staff Space-Time: domains/space-time/battalion-staff-space-time.md
           - Case Study — The Left Hook: domains/space-time/case-study-left-hook.md
           - Chinese A2/AD — Space-Time Dimension: domains/space-time/chinese-a2ad-space-time.md
+          - "Tempo in African Peace Ops — MONUSCO": domains/space-time/case-study-monusco-tempo.md
       - Landward:
           - Overview: domains/landward/index.md
           - Section Commander's Landward Operations: domains/landward/section-commanders-landward.md
@@ -139,6 +144,7 @@ nav:
           - Case Study — Battle of Leuctra: domains/landward/case-study-leuctra.md
           - Case Study — Battle of Ia Drang: domains/landward/case-study-ia-drang.md
           - Bangladesh Liberation War (1971): domains/landward/bangladesh-liberation-war-1971.md
+          - "Malayan Emergency (1948–1960)": domains/landward/case-study-malayan-emergency.md
   - Force Structure:
       - Overview: force-structure/index.md
       - Land Forces:
