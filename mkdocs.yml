@@ -140,7 +140,9 @@ nav:
       - Land Forces:
           - Overview: force-structure/land-forces/index.md
           - Infantry: force-structure/land-forces/infantry.md
-  - Articles: articles/placeholder.md
+  - Articles:
+      - Overview: articles/placeholder.md
+      - Content Diversity Plan: articles/content-diversity-plan.md
   - Reference: reference/placeholder.md
   - Governance: governance/SITE-GOVERNANCE.md
 
