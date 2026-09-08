@@ -249,6 +249,9 @@ Supporting documents to the Narrative are divided into two tiers:
 ## Cross-References
 
 
+- [Scenario Development](scenario-development.md) — The Special Idea that provides the tactical backdrop
+- [Opposing Force — OPFOR](opposing-force.md) — Detailed OPFOR development guidance
+- [Role Players and Script Writing](role-players.md) — Role player management and script writing
 - [Exercise Commissioning](commissioning.md) — How the Narrative is mandated and guided
 - [Exercise Control Structures](excon.md) — The Scenario Development Cell responsible for the Narrative
 

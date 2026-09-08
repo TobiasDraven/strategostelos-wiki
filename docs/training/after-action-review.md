@@ -124,6 +124,8 @@ The lessons learned process extends beyond the AAR to ensure observations are ca
 
 ## Cross-References
 
+- [Post-Exercise Activities](post-exercise.md) — FIR, Debrief Report, Rectification Plan
+- [Assessment and Evaluation](assessment-evaluation.md) — A&E during the exercise
 - [Exercise Control Structures](excon.md) — Controllers who conduct AARs
 - [Exercise Concept Development](concept-development.md) — The FIOL objectives that AARs measure against
 - [Exercise Design Templates and Checklists](templates.md) — AAR and lesson learned templates
