@@ -192,7 +192,7 @@ All EXCON staff and vehicles must be clearly identified:
 
 - [Exercise Commissioning](commissioning.md) — How EXCON is mandated and resourced
 - [The Exercise Planning Process](planning.md) — How EXCON is planned and managed
-- [Exercise Control Matrix](../exercise-design/control-and-docs.md) — How EXCON manages execution
+
 
 ---
 

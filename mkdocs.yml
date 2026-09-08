@@ -76,6 +76,16 @@ nav:
       - The Exercise Planning Process: training/planning.md
       - Exercise Commissioning: training/commissioning.md
       - Exercise Control Structures — EXCON: training/excon.md
+      - Narrative Composition: training/narrative.md
+      - Exercise Concept Development: training/concept-development.md
+      - After Action Review and Lessons Learned: training/after-action-review.md
+      - Exercise Design Templates and Checklists: training/templates.md
+      - The Main Events List — MEL: training/mel.md
+      - The Master Incident List — MIL: training/mil.md
+      - Inject Design and Construction: training/inject-design.md
+      - Exercise Control Matrix — ECM: training/ecm.md
+      - Inject Control Sheets — ICS: training/ics.md
+      - Site Reconnaissance: training/site-reconnaissance.md
       - Scenario Writing:
           - Overview: training/scenario-writing/index.md
           - Background and Context: training/scenario-writing/background.md
